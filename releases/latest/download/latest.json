@@ -1,19 +1,19 @@
 {
-    "version": "",
-    "notes": "",
-    "pub_date": "",
+    "version": "0.1.1",
+    "notes": "Beta",
+    "pub_date": "2025-03-01T22:30:39+00:00",
     "platforms": {
-      "linux-x86_64": {
-        "signature": "",
-        "url": ""
-      },
-      "windows-x86_64": {
-        "signature": "",
-        "url": ""
-      },
-      "darwin-x86_64": {
-        "signature": "",
-        "url": ""
-      }
+        "linux-x86_64": {
+            "signature": "",
+            "url": ""
+        },
+        "windows-x86_64": {
+            "signature": "../../0.1.1/Code Snip AI_0.1.1_x64-setup.exe.sig",
+            "url": "../../0.1.1/Code Snip AI_0.1.1_x64-setup.exe"
+        },
+        "darwin-x86_64": {
+            "signature": "",
+            "url": ""
+        }
     }
-  }
+}
