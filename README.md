@@ -5,6 +5,7 @@
 
 The ultimate AI-powered tool for developers! Transform your code into visually appealing snippets with ease.
 
-![Logo](Code-Snip-AI.png)
+<img src='Code-Snip-AI.png'alt='Code Snip AI' />
+
 
 
