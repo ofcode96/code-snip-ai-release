@@ -8,8 +8,8 @@
             "url": ""
         },
         "windows-x86_64": {
-            "signature": "../../0.1.1/Code Snip AI_0.1.1_x64-setup.exe.sig",
-            "url": "../../0.1.1/Code Snip AI_0.1.1_x64-setup.exe"
+            "signature": "https://github.com/ofcode96/code-snip-ai-release/releases/download/code-snip-ai/Code.Snip.AI_0.1.1_x64-setup.exe.sig",
+            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/code-snip-ai/Code.Snip.AI_0.1.1_x64-setup.exe"
         },
         "darwin-x86_64": {
             "signature": "",
