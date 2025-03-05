@@ -5,8 +5,8 @@
     "platforms": {
         
         "windows-x86_64": {
-            "signature": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta.1/Code.Snip.AI_0.2.0_x64_en-US.msi.sig",
-            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta.1/Code.Snip.AI_0.2.0_x64_en-US.msi"
+            "signature": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta.1/Code.Snip.AI_0.2.0_x64-setup.exe.sig",
+            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta.1/Code.Snip.AI_0.2.0_x64-setup.exe"
         }
        
     }
