@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "version": "0.2.7",
     "notes": "Beta",
     "pub_date": "2025-08-01T22:30:39+00:00",
@@ -7,6 +8,16 @@
         "windows-x86_64": {
             "signature": "https://github.com/ofcode96/code-snip-ai-release/releases/download/code-snip-ai/Code.Snip.AI_0.2.6_x64-setup.exe.sig",
             "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/code-snip-ai/Code.Snip.AI_0.6.6_x64-setup.exe"
+=======
+    "version": "0.2.6",
+    "notes": "Beta",
+    "pub_date": "2025-03-07T16:23:18+00:00",
+    "platforms": {
+        
+        "windows-x86_64": {
+            "signature": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta/Code.Snip.AI_0.2.6_x64-setup.exe.sig",
+            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta/Code.Snip.AI_0.2.6_x64-setup.exe"
+>>>>>>> a845e7f1b3a7fd1deb1ef91c0ef8b6fe7f0a3aec
         }
        
     }
