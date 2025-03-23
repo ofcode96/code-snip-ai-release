@@ -1,7 +1,7 @@
 {
     "version": "0.3.1",
     "notes": "Beta",
-    "pub_date": "2025-013-03T22:30:39+00:00",
+    "pub_date": "2025-03-23T16:47:52+00:00",
     "platforms": {
         "windows-x86_64": {
             "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta/Code.Snip.AI_0.3.0_x64-setup.exe",
