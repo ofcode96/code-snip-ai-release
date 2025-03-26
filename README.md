@@ -1,19 +1,26 @@
 
-# Code Snip AI ✨📸
+#  <img src='Code-Snip-AI.png' width=25 height=25 /> Code Snip AI  ✨📸
 
 ***Code Snip AI***: Effortlessly Generate Stunning Code Snippets with ***AI!*** 🌟
 
 The ultimate AI-powered tool for developers! Transform your code into visually appealing snippets with ease.
 
-![Code Snip AI](Code-Snip-AI.png)
+
+## Screenshots
+
+![Code Snip AI](https://github.com/ofcode96/code-snip-ai-release/blob/main/screen-shots/some%20explains.gif?raw=true)
+
+[See More ](./SCREENSHOTS.md)
+
 
 ---
 
 ## Requirments
 
-- [VS Code Extention](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Google Account](https://github.com/matiassingers/awesome-readme) & [Giminy API Key](https://github.com/matiassingers/awesome-readme)
-- [Webview2](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- Windows 7/8/10/11 64bit
+- [VS Code Extention](https://marketplace.visualstudio.com/items?itemName=ofcode96.code-snip-ai)
+- [Google Account](https://mail.google.com/mail/u/0/) & [Giminy API Key](https://ai.google.dev/gemini-api/docs/api-key)
+- [Webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2)
 
 ---
 
@@ -43,17 +50,18 @@ A: Code Snap AI is currently available on Windows 10 and higher. Other platforms
 
 ## Features
 
-- Light/dark mode toggle
+- Light/Dark mode toggle
 - Export to png and jpeg
 - Drag and Drop tools
 - Updates every time
 - AI Generating Tools
+- Vs Code Extension
 
 ---
 
 ## Support
 
-For support, email [ofcode96@gmail.com](ofcode96@gmail.com) or join our Social Media.
+For support, email [ofcode](ofcode96@gmail.com) or [support gate 🤑](https://ofcode-support-gate.blogspot.com/)  or join our Social Media at ***ofcode96***.
 
 ---
 
