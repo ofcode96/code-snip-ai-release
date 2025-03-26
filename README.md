@@ -8,7 +8,7 @@ The ultimate AI-powered tool for developers! Transform your code into visually a
 
 ## Screenshots
 
-![Code Snip AI Drag & Drop](https://github.com/ofcode96/code-snip-ai-release/blob/main/screen-shots/drag%20and%20drop.gif?raw=true)
+![Code Snip AI](https://github.com/ofcode96/code-snip-ai-release/blob/main/screen-shots/some%20explains.gif?raw=true)
 
 [See More ](./SCREENSHOTS.md)
 
