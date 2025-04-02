@@ -1,11 +1,11 @@
 {
-    "version": "0.7.0",
-    "notes": "Beta",
-    "pub_date": "2025-03-28T17:37:06+00:00",
+    "version": "1.0.0",
+    "notes": "NO Updated",
+    "pub_date": "2025-04-02T23:53:06+00:00",
     "platforms": {
         "windows-x86_64": {
-            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta/Code.Snip.AI_0.7.0_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcGxYN1d5VXhFVGowZWdGaGIvbmdpdmZUblRFdzdld3VSaCtZdjFibXg4SWN5REozUUVKZWI5MUg2QVhjOWZmRGMxeVowUk5rTXhYelYyRXVOcEd1RXVwTldtRlRRVHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzMTg1MzQ2CWZpbGU6Q29kZSBTbmlwIEFJXzAuNy4wX3g2NC1zZXR1cC5leGUKOTZKUEw5cW5nUUdwdXlrNGpRZmhUczZvdGltK2I4eHNDclhtMWdLNFcwT0NxcFRZM3ZFemJmdmovOUtnRkJ2NmJGU3pYcnQ4WmdUcGhGYTNqNTE1QlE9PQo="
+            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/beta/Code.Snip.AI_1.0.0_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcGxYN1d5VXhFVGtFWU9CTm5TdDVEVllkMFZKWUNMejFEQmRpemZXVm05NmdIKzR3ZkZjWmxjbVRRN053N0ZteFRVemw0WTFFTHh6TnVzMFZmOEFHeUEzY1Q3NjJuL0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNjM0NTc4CWZpbGU6Q29kZSBTbmlwIEFJXzAuOC4wX3g2NC1zZXR1cC5leGUKczU0OW9PVXBIODdoZCtGWUx2QUJidkZvdGpSZEZjT2lmM2dIRm1xQmVKQlFsQWxMZEZFbmdITEJTdXd0a0Fzb2dyN0JQbng4VHVyS2t2c0JWWm1iREE9PQo="
         }
     }
 }
