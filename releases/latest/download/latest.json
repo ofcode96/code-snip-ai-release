@@ -1,11 +1,11 @@
 {
-    "version": "1.0.0",
-    "notes": "NO Updated",
-    "pub_date": "2025-04-02T23:53:06+00:00",
+    "version": "1.0.1",
+    "notes": "Some Fixes in UI",
+    "pub_date": "2025-04-06T19:05:06+00:00",
     "platforms": {
         "windows-x86_64": {
-            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/release/Code.Snip.AI_1.0.0_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcGxYN1d5VXhFVG9Jb0lNSGtjMUFMNGNOdUdiRy9jVnNpZ2VNMGNsOXVoSEtvanJ3bXZmWUUzcndoNTg4S1VCb2xGUWNWTzRlMVlyWXNwVmZvTE04T2hlQm0wUi9LRlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNjM1ODQwCWZpbGU6Q29kZSBTbmlwIEFJXzEuMC4wX3g2NC1zZXR1cC5leGUKSWRtS2hHSjF5UWtxZ0dzYzd2SStpdFdwZXFLZDh4SFR4dU9HRDFLK05kRjhpb1h1NmwveUhMMTdEbVMvTzc3MjY2QVNza1dxN21rdFhSdFVUbVE0QWc9PQo="
+            "url": "https://github.com/ofcode96/code-snip-ai-release/releases/download/release/Code.Snip.AI_1.0.1_x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcGxYN1d5VXhFVGxCOGYzeW8xWVVlSFQyU05YV0VGWVdzMUM3UXJpb3FPekNaQUJwY1dnKzRJU2VFQm1xcHJXTUxOR0Fzcm1SMGJZQnNWeDNNd09uYnhqNHV2S1BXalFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzOTYyMTk4CWZpbGU6Q29kZSBTbmlwIEFJXzEuMC4xX3g2NC1zZXR1cC5leGUKU3k5MjN5VzZGdGdob3JoVkQzVDRQRWw0Y2N3ZXUyVE5IWU85Q1JOYlczWWt2SmZ2M1Izbmh3RjJ1YW5aRVdkSDhnTFV6MnRKZnhvaFcyNXdRcEpyQnc9PQo="
         }
     }
 }
